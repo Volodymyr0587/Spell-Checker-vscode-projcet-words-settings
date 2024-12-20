@@ -1,0 +1,1 @@
+# Spell-Checker-vscode-projcet-words-settings
